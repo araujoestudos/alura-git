@@ -5,6 +5,7 @@ git commit -m "Mensagem para o commit" --commit -m commit + mensagem
 git log -- informações do commit Hash único
 git log --oneline --uma linha
 git log -p --long list
+git log --graph
 https://devhints.io/git-log
 git config --local ou /global user.name "Vitor Araujo"			--projeto ou todos os projetos
 git config --local ou /global user.email "araujovit@gmail.com"	--projeto ou todos os projetos
