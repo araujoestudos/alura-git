@@ -31,6 +31,6 @@ $ git remote add local <Qualquer endereço de um servidor válido> --adicionando
 $ git remote --exibe o nome
 $ git remote -v --exibe com endereço
 
-
+vitor
 
 
