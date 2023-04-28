@@ -9,3 +9,24 @@ https://devhints.io/git-log
 git config --local ou /global user.name "Vitor Araujo"			--projeto ou todos os projetos
 git config --local ou /global user.email "araujovit@gmail.com"	--projeto ou todos os projetos
 git config --list -- consultar todas as variaveis de configuração
+git clone <caminho valido> -- Copiar todo projeto, formato /c/pasta/ <nome_pasta>
+git push local master --envia de master para local
+git pull local master --pega de master para local
+git branch <nome>
+git branch --lista os branchs
+git checkout <nome> -- alterna o branch
+ 
+
+
+/*Criar um servidor para controle de alterações
+Criar uma outra pasta e iniciar o got com o comando git init --bare
+*/
+
+$ git remote add local <Qualquer endereço de um servidor válido> --adicionando o servidor remoto 
+
+$ git remote --exibe o nome
+$ git remote -v --exibe com endereço
+
+
+
+
