@@ -15,6 +15,10 @@ git pull local master --pega de master para local
 git branch <nome>
 git branch --lista os branchs
 git checkout <nome> -- alterna o branch
+git checkout -b <nome> --cria e seleciona o branch
+
+
+
  
 
 
