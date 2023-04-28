@@ -1,2 +1,11 @@
 git init --versionar pasta
 git status --estatus do conteúdo da pasta compartilhada
+git add <nome_do_arquivo> --arquivo adicionado nos itens do repositório
+git commit -m "Mensagem para o commit" --commit -m commit + mensagem
+git log -- informações do commit Hash único
+git log --oneline --uma linha
+git log -p --long list
+https://devhints.io/git-log
+git config --local ou /global user.name "Vitor Araujo"			--projeto ou todos os projetos
+git config --local ou /global user.email "araujovit@gmail.com"	--projeto ou todos os projetos
+git config --list -- consultar todas as variaveis de configuração
